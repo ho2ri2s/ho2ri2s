@@ -12,9 +12,6 @@
 
 Mobile Developer specializing in **Android** & **Flutter** development, with growing expertise in iOS.
 
-- 📱 Currently working at **Spocale, Inc.**
-- 🎯 Building AI-powered apps with Flutter
-- 🌱 Learning iOS development & CI/CD automation
 - 🌍 Based in Tokyo, Japan
 
 ## 💻 Tech Stack
